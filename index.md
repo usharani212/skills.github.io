@@ -1,5 +1,6 @@
 ---
-title: About my fav place
+title: "MY-FAV-PLACE"
+date: 2024-12-08
 ---
 my fav place is "MY HOME"
 since im a hostler and living far far away from my house 
